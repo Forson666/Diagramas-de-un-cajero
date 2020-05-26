@@ -1,6 +1,10 @@
-# Analisis por casos de uso de un cajero
+# Analisis un cajero
+
+Santiago Gómez Almeyda 20161020503
 
 Jheisson Enrique Fortich Suarez 20172020049
+
+Kevin Andres Malaver Cobos 20171020001
 
 Diagramas de caso de uso realizado con UmlStudio
 
