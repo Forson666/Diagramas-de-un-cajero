@@ -23,3 +23,9 @@ O en un solo diagrama:
 ## Diagrama de Clases basado en Diagrama de Casos de Uso
 
 ![Diagrama de Clases](https://user-images.githubusercontent.com/20057560/82928070-4c4f9600-9f47-11ea-91a4-197414409601.PNG)
+
+## Diagramas de Secuencia
+
+![SequenceDiagramDepositar](https://user-images.githubusercontent.com/31100374/83153403-885c3580-a0c4-11ea-88f9-09a681cf3506.png)
+![SequenceDiagramRetirar](https://user-images.githubusercontent.com/31100374/83153407-898d6280-a0c4-11ea-947e-8db793c7cdcb.png)
+![SequenceDiagramTransferir](https://user-images.githubusercontent.com/31100374/83153416-8b572600-a0c4-11ea-85f2-063d0c93dd87.png)
