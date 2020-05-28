@@ -16,9 +16,11 @@ O en un solo diagrama:
 
 ![Diagrama de casos de uso](https://github.com/Forson666/Analisis-por-casos-de-uso-de-un-cajero/blob/master/diagrama.PNG)
 
-## Diagrama de actividades
+## Diagramas de actividades
 
-![Diagrama de actividades](https://github.com/Forson666/Diagramas-de-un-cajero/blob/master/diagrama%20de%20actividades.png)
+![Diagrama de actividades1](https://github.com/Forson666/Diagramas-de-un-cajero/blob/master/diagrama%20de%20actividades%20de%20retiro.png)
+![Diagrama de actividades2](https://github.com/Forson666/Diagramas-de-un-cajero/blob/master/diagrama%20de%20actividades%20de%20deposito.png)
+![Diagrama de actividades3](https://github.com/Forson666/Diagramas-de-un-cajero/blob/master/diagrama%20de%20actividades%20de%20transferencia.png)
 
 ## Diagrama de Clases basado en Diagrama de Casos de Uso
 
