@@ -28,6 +28,7 @@ O en un solo diagrama:
 
 ## Diagramas de Secuencia
 
-![SequenceDiagramDepositar](https://user-images.githubusercontent.com/31100374/83153403-885c3580-a0c4-11ea-88f9-09a681cf3506.png)
-![SequenceDiagramRetirar](https://user-images.githubusercontent.com/31100374/83153407-898d6280-a0c4-11ea-947e-8db793c7cdcb.png)
-![SequenceDiagramTransferir](https://user-images.githubusercontent.com/31100374/83153416-8b572600-a0c4-11ea-85f2-063d0c93dd87.png)
+![SequenceDiagramDepositar](https://user-images.githubusercontent.com/31100374/83358315-4a674780-a338-11ea-9370-14beb8292bfd.png)
+![SequenceDiagramRetirar](https://user-images.githubusercontent.com/31100374/83358317-4b987480-a338-11ea-95db-ad06613888dd.png)
+![SequenceDiagramTransferir](https://user-images.githubusercontent.com/31100374/83358318-4c310b00-a338-11ea-914c-795eabd41110.png)
+
