@@ -32,3 +32,10 @@ O en un solo diagrama:
 ![SequenceDiagramRetirar](https://user-images.githubusercontent.com/31100374/83358317-4b987480-a338-11ea-95db-ad06613888dd.png)
 ![SequenceDiagramTransferir](https://user-images.githubusercontent.com/31100374/83358318-4c310b00-a338-11ea-914c-795eabd41110.png)
 
+## Realizacion de transferencia
+
+![Realizacion](https://github.com/Forson666/Diagramas-de-un-cajero/blob/master/Realizacion%20del%20caso%20de%20transferencia%20en%20el%20modelo%20de%20analisis.png)
+
+## Diagrama de colaboracion de transferencia
+
+![Colaboracion](https://github.com/Forson666/Diagramas-de-un-cajero/blob/master/diagrama%20de%20colaboracion%20para%20la%20transferencia.png)
