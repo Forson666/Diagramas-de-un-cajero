@@ -41,7 +41,7 @@ O en un solo diagrama:
 ![Colaboracion](https://github.com/Forson666/Diagramas-de-un-cajero/blob/master/diagrama%20de%20colaboracion%20para%20la%20transferencia.png)
 
 ## Modelo de diseño a partir de modelo de analisis
-![WhatsApp Image 2020-06-04 at 8 56 56 AM](https://user-images.githubusercontent.com/31100374/83766128-a20bf880-a641-11ea-99a0-4f7f77b47822.jpeg)
+![Modelo de diseño](https://user-images.githubusercontent.com/31100374/83766128-a20bf880-a641-11ea-99a0-4f7f77b47822.jpeg)
 
 ## Diagrama de secuencia para representar caso de uso transferencia
 ![DiagramaDeDiseño](https://user-images.githubusercontent.com/31100374/83766157-a9330680-a641-11ea-86c9-cc6951d9859a.png)
@@ -51,24 +51,22 @@ O en un solo diagrama:
 
 ## Prueba de Casos de Uso
 
-Ej. un caso de prueba especifica la entrada, los resultados esperados, y otras
-condiciones relevantes para verificar el flujo básico del caso de uso realizar la transfeencia de dinero
-
-### Dinero:
+Ej. un caso de prueba que especifica la entrada, los resultados esperados, y otras
+condiciones relevantes para verificar el flujo básico del caso de uso realizar la transfeencia de dinero:
 
 #### Entradas:
-La cuenta 14-141-1411 del Cliente de Banco tiene un saldo de 410 $
-El Cliente de Banco se identifica correctamente
-El Cliente de Banco solicita la transferencia de 200 $ de la cuenta 14-141-1411 hacia la cuenta 27-272-2722
-Hay saldo suficiente en la cuenta del cliente
+* La cuenta 14-141-1411 del Cliente de Banco tiene un saldo de 410 $
+* El Cliente de Banco se identifica correctamente
+* El Cliente de Banco solicita la transferencia de 200 $ de la cuenta 14-141-1411 hacia la cuenta 27-272-2722
+* Hay saldo suficiente en la cuenta del cliente
 
 #### Resultados:
-El saldo de la cuenta del cliente 14-141-1411 disminuye a 210 $
-La cuenta de destino 27-272-2722 recibe 200 $
-El Cliente de Banco recibe mensaje de confirmación del Cajero Automático: "Transferencia Realizada".
+* El saldo de la cuenta del cliente 14-141-1411 disminuye a 210 $
+* La cuenta de destino 27-272-2722 recibe 200 $
+* El Cliente de Banco recibe mensaje de confirmación del Cajero Automático: "Transferencia Realizada".
 
 #### Condiciones:
-No se permite que ningún otro caso de uso (instancias de) acceda a la
+* No se permite que ningún otro caso de uso (instancias de) acceda a la
 cuenta 14-141-1411 durante la ejecución del caso de prueba.
 
 
