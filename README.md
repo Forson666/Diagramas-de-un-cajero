@@ -39,3 +39,9 @@ O en un solo diagrama:
 ## Diagrama de colaboracion de transferencia
 
 ![Colaboracion](https://github.com/Forson666/Diagramas-de-un-cajero/blob/master/diagrama%20de%20colaboracion%20para%20la%20transferencia.png)
+
+## Modelo de diseño a partir de modelo de analisis
+![WhatsApp Image 2020-06-04 at 8 56 56 AM](https://user-images.githubusercontent.com/31100374/83766128-a20bf880-a641-11ea-99a0-4f7f77b47822.jpeg)
+
+## Diagrama de secuencia para representar caso de uso transferencia
+![DiagramaDeDiseño](https://user-images.githubusercontent.com/31100374/83766157-a9330680-a641-11ea-86c9-cc6951d9859a.png)
