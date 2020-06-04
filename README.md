@@ -45,3 +45,30 @@ O en un solo diagrama:
 
 ## Diagrama de secuencia para representar caso de uso transferencia
 ![DiagramaDeDiseño](https://user-images.githubusercontent.com/31100374/83766157-a9330680-a641-11ea-86c9-cc6951d9859a.png)
+
+## Diagrama de implementación apartir del modelo de diseño
+![Diseño implementación](https://user-images.githubusercontent.com/20057560/83769805-ea2d1a00-a645-11ea-8739-c0e105f9c6b8.jpeg)
+
+## Prueba de Casos de Uso
+
+Ej. un caso de prueba especifica la entrada, los resultados esperados, y otras
+condiciones relevantes para verificar el flujo básico del caso de uso realizar la transfeencia de dinero
+
+### Dinero:
+
+#### Entradas:
+La cuenta 14-141-1411 del Cliente de Banco tiene un saldo de 410 $
+El Cliente de Banco se identifica correctamente
+El Cliente de Banco solicita la transferencia de 200 $ de la cuenta 14-141-1411 hacia la cuenta 27-272-2722
+Hay saldo suficiente en la cuenta del cliente
+
+#### Resultados:
+El saldo de la cuenta del cliente 14-141-1411 disminuye a 210 $
+La cuenta de destino 27-272-2722 recibe 200 $
+El Cliente de Banco recibe mensaje de confirmación del Cajero Automático: "Transferencia Realizada".
+
+#### Condiciones:
+No se permite que ningún otro caso de uso (instancias de) acceda a la
+cuenta 14-141-1411 durante la ejecución del caso de prueba.
+
+
